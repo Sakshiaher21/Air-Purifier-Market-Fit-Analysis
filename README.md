@@ -235,11 +235,7 @@ Population alone does not determine AQI severity; industrial activity and traffi
 
 Explore interactive dashboard:
 
-Power BI Dashboard Link
-
-Dashboard Preview:
-
-([https://app.powerbi.com/view?r=eyJrIjoiNzViNDVlNGUtMTQ1My00OTlkLTgxMjItZjg0YWU2NDI2YTc3IiwidCI6IjM3ZDZjMmRjLTQ4MTMtNDhlMy1hODQyLTI4Y2FiODE3MWM5OCIsImMiOjEwfQ%3D%3D&pageName=09f8b9563c5833bb7efa])
+[View Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzViNDVlNGUtMTQ1My00OTlkLTgxMjItZjg0YWU2NDI2YTc3IiwidCI6IjM3ZDZjMmRjLTQ4MTMtNDhlMy1hODQyLTI4Y2FiODE3MWM5OCIsImMiOjEwfQ%3D%3D&pageName=09f8b9563c5833bb7efa)
 
 ---
 
