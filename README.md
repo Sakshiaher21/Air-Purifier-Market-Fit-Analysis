@@ -239,7 +239,7 @@ Power BI Dashboard Link
 
 Dashboard Preview:
 
-(Add dashboard image here)
+([https://app.powerbi.com/view?r=eyJrIjoiNzViNDVlNGUtMTQ1My00OTlkLTgxMjItZjg0YWU2NDI2YTc3IiwidCI6IjM3ZDZjMmRjLTQ4MTMtNDhlMy1hODQyLTI4Y2FiODE3MWM5OCIsImMiOjEwfQ%3D%3D&pageName=09f8b9563c5833bb7efa])
 
 ---
 
