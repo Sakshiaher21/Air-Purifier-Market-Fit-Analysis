@@ -239,28 +239,6 @@ Explore interactive dashboard:
 
 ---
 
-# Project Structure
-
-```
-AQI-AirPurifier-Market-Research
-│
-├── ADHOC ANALYSIS
-│   ├── AQI_Severity.sql
-│   ├── Pollutant_Analysis.sql
-│   ├── AQI_Trends.sql
-│   ├── EV_Analysis.sql
-│
-├── Dashboard
-│   └── dashboard.png
-│
-├── PPT
-│   └── Project_Presentation.pptx
-│
-└── README.md
-```
-
----
-
 # Future Scope
 
 Potential future enhancements:
